@@ -1,4 +1,34 @@
+body
+{
+    margin: 20px;
+    color: white;
+    background: rgb(29, 29, 29);
+}
+button
+{
+    padding: 10px;
+    margin: 5px;
+    background: #ff5757;
+    cursor: pointer;
+
+}
+h1
+{
+    text-align: center;
+}
+p, ul
+{
+    text-align: center;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    padding: none;
+    margin: 10px;
+}
 .img
 {
     width: 100%;
+    border-radius: 5px;
 }
